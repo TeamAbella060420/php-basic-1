@@ -1,6 +1,6 @@
 <?php
 
 $firstname = 'Abraham Flynn';
-echo "Hello $firstname";
+echo 'Hello ' . $firstname;
 
 ?>
