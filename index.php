@@ -1,5 +1,7 @@
 <?php
 
-echo 'Hello world';
+
+$_test = "I will be a millionaire";
+echo $_test;
 
 ?>
