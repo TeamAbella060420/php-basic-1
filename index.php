@@ -1,6 +1,6 @@
 <?php
 
-$_test = "I will be a millionaire";
-echo $_test;
+$firstname = 'Abraham Flynn';
+echo "Hello $firstname";
 
 ?>
