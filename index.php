@@ -10,7 +10,7 @@
 
 <body>
     <?php
-    // Comment 1
+    // Comment
     echo '<h1>' . "Hello World!" . '</h1>';
     // $x = 2;
     $y = 5;
